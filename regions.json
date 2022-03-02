@@ -1,0 +1,745 @@
+{
+  "regions": [
+    {
+      "postCode": 100125,
+      "district": "Mirzo Ulugbek",
+      "neighbours": [100114, 100007],
+      "hospitals": [
+        {
+          "postCode": 100125,
+          "name": "FAMILY POLYCLINIC #4",
+          "type": "Local",
+          "address": "KALANDAR avenue, 2",
+          "forChildren": false
+        },
+        {
+          "postCode": 100125,
+          "name": "Sadafkom",
+          "type": "Dental",
+          "address": "st. Mustaqillik, 86A",
+          "forChildren": false
+        },
+        {
+          "postCode": 100125,
+          "name": "FAMILY POLYCLINIC #8",
+          "type": "Local",
+          "address": " st. MINGBULOQ, 40",
+          "forChildren": false
+        },
+        {
+          "postCode": 100125,
+          "name": "UMC",
+          "type": "Cardiac",
+          "address": "st. Mustaqillik, 86A",
+          "forChildren": false
+        },
+        {
+          "postCode": 100125,
+          "name": "CENTRAL MULTIDISCIPLINE POLYCLINIC AT RMO #8",
+          "type": "Local",
+          "address": " TTZ-2 avenue",
+          "forChildren": false
+        },
+        {
+          "postCode": 100125,
+          "name": "1 MEDICAL AND LABOR EXPERT COMMISSION (VTEK)",
+          "type": "Private",
+          "address": " Qorasu-2 avenue, 40",
+          "forChildren": false
+        },
+        {
+          "postCode": 100125,
+          "name": "Medical Center for Obstetrics and Gynecology",
+          "type": "Diagnostics",
+          "address": "st. Feruza, 132a",
+          "forChildren": false
+        },
+        {
+          "postCode": 100125,
+          "name": "MEDICANA MEDICAL CENTER",
+          "type": "Private",
+          "address": "st. Akkurgan, 20A",
+          "forChildren": false
+        },
+        {
+          "postCode": 100125,
+          "name": "IX MED CLINIC",
+          "type": "Diagnostics",
+          "address": "st. Ravnak, 41",
+          "forChildren": false
+        }
+      ]
+    },
+    {
+      "postCode": 100047,
+      "district": "Mirobod",
+      "neighbours": [100022, 100007, 111503],
+      "hospitals": [
+        {
+          "postCode": 100047,
+          "name": "CHILDREN'S PSYCHO-NEUROLOGICAL CENTRE OF TASHKENT CITY",
+          "type": "Psychiatric",
+          "address": "Mirabad ESKI SARIKUL (former BEHTEREV) St., 2",
+          "forChildren": true
+        },
+        {
+          "postCode": 100047,
+          "name": "CLINICAL HOSPITAL #3 OF TASHKENT CITY",
+          "type": "Diagnostics",
+          "address": "Mirabad FITRAT St., 20",
+          "forChildren": false
+        },
+        {
+          "postCode": 100047,
+          "name": "PSYCHIATRIC CLINIC OF TASHKENT CITY",
+          "type": "Psychiatric",
+          "address": "Mirabad MEHRJON St., 35",
+          "forChildren": false
+        },
+        {
+          "postCode": 100047,
+          "name": "REPUBLICAN CLINICAL HOSPITAL #1",
+          "type": "Diagnostics",
+          "address": "Mirabad S.AZIMOV (former JUKOVSKAYA) St., 74",
+          "forChildren": false
+        },
+        {
+          "postCode": 100047,
+          "name": "CHILDRENS HOSPITAL OF JSC UZBEKISTAN RAILWAYS.",
+          "type": "Diagnostics",
+          "address": "Mirabad FIDOIYLAR St., 21",
+          "forChildren": true
+        }
+      ]
+    },
+    {
+      "postCode": 100115,
+      "district": "Chilonzor",
+      "neighbours": [100011, 100022, 100126],
+      "hospitals": [
+        {
+          "postCode": 100115,
+          "name": "CENTRAL POLYCLINIC OF CHILANZAR DISTRICT",
+          "type": "Diagnostics",
+          "address": "BUNYODKOR avenue, 7A",
+          "forChildren": false
+        },
+        {
+          "postCode": 100115,
+          "name": " FAMILY POLYCLINIC #33",
+          "type": "Cardiac",
+          "address": "1st TIRSAKOBOD pass., 7",
+          "forChildren": false
+        },
+        {
+          "postCode": 100115,
+          "name": "DEO CHANG JO. CLINIC",
+          "type": "Private",
+          "address": "ARNASAY (former PIONERSKAYA) St., 51/1",
+          "forChildren": false
+        },
+        {
+          "postCode": 100115,
+          "name": "CENTER OF DOCTOR BUBNOVSKY MEDICAL CENTRE",
+          "type": "Diagnostics",
+          "address": "GAGARIN St., 41",
+          "forChildren": false
+        },
+        {
+          "postCode": 100115,
+          "name": "BEK NUR STOM. STOMATOLOGY",
+          "type": "Dental",
+          "address": "CHILANZAR-8 block, CHAPANATA St., 53/25",
+          "forChildren": false
+        },
+        {
+          "postCode": 100115,
+          "name": "PERSONA-DENTAL-CLINIC DENTAL CLINIC.",
+          "type": "Dental",
+          "address": "KATARTAL St., CHILANZAR-5 block, 25/37",
+          "forChildren": false
+        },
+        {
+          "postCode": 100115,
+          "name": "LIDER-STOM. STOMATOLOGY",
+          "type": "Dental",
+          "address": "KATARTAL St., CHILANZAR-6 block, 31/13",
+          "forChildren": false
+        },
+        {
+          "postCode": 100115,
+          "name": "Estimed",
+          "type": "Cardiac",
+          "address": "Chilanzar Street 43/1",
+          "forChildren": false
+        },
+        {
+          "postCode": 100115,
+          "name": "16-Balnitsa",
+          "type": "Urologic",
+          "address": "2 Little Ring Road",
+          "forChildren": false
+        },
+        {
+          "postCode": 100115,
+          "name": "Republican Surgery Center",
+          "type": "Surgical",
+          "address": "10 Little Ring Road",
+          "forChildren": false
+        }
+      ]
+    },
+    {
+      "postCode": 111503,
+      "district": "Bektemir",
+      "neighbours": [100047, 100085, 100007],
+      "hospitals": [
+        {
+          "postCode": 111503,
+          "name": "CITY CLINIC HOSPITAL #6",
+          "type": "Diagnostics",
+          "address": "Bektemir district, Oltintopgan street, 4",
+          "forChildren": false
+        },
+        {
+          "postCode": 111503,
+          "name": "Toshkent viloyati shoshilinch tez tibbiy yordam bo'limi",
+          "type": "Private",
+          "address": "Bektemir district, Porlok Street",
+          "forChildren": false
+        },
+        {
+          "postCode": 111503,
+          "name": "Tszen Med Center",
+          "type": "Diagnostics",
+          "address": "Bektemir district, Navkiron street, 17",
+          "forChildren": false
+        },
+        {
+          "postCode": 111503,
+          "name": "Tsentral'naya Mnogoprofil'naya Poliklinika Pri Rmo Bektemirskogo Rayona",
+          "type": "Diagnostics",
+          "address": "Bektemir district, Suvsoz, 75",
+          "forChildren": false
+        },
+        {
+          "postCode": 111503,
+          "name": "Prima Denta",
+          "type": "Dental",
+          "address": " 29 Khusayin Baykaro Street, Tashkent",
+          "forChildren": false
+        },
+        {
+          "postCode": 111503,
+          "name": "HI TECH LABORATORIES",
+          "type": "Diagnostics",
+          "address": " 53 Khusayin Baykaro Street, Tashkent",
+          "forChildren": false
+        }
+      ]
+    },
+    {
+      "postCode": 100085,
+      "district": "Sergeli",
+      "neighbours": [100115, 100022, 100047],
+      "hospitals": [
+        {
+          "postCode": 100085,
+          "name": "Republican Clinical Psychiatric Hospital",
+          "type": "Psychiatric",
+          "address": " Tashkent, Sergeli District, SPUTNIK-4,",
+          "forChildren": false
+        },
+        {
+          "postCode": 100085,
+          "name": "Global Medical Center",
+          "type": "Diagnostics",
+          "address": "35 Yangi Sergeli Road",
+          "forChildren": false
+        },
+        {
+          "postCode": 100085,
+          "name": "Comfort Med Private Clinic",
+          "type": "Urologic",
+          "address": "Sergeli District, street Yangi Sergeli Yuli, 4",
+          "forChildren": false
+        },
+        {
+          "postCode": 100085,
+          "name": "My Aba Crystal Dent",
+          "type": "Dental",
+          "address": "Shokirarik street, Sergeli",
+          "forChildren": false
+        },
+        {
+          "postCode": 100085,
+          "name": "Stomatologiya",
+          "type": "Dental",
+          "address": "2 Yangi Sergeli Road",
+          "forChildren": false
+        },
+        {
+          "postCode": 100085,
+          "name": "Asliddin-Dental",
+          "type": "Dental",
+          "address": "Sergeli 2, building-1, flat-29",
+          "forChildren": false
+        },
+        {
+          "postCode": 100085,
+          "name": "Kamoliddin Dental Clinic",
+          "type": "Dental",
+          "address": "1 Tursun Zade Street",
+          "forChildren": false
+        },
+        {
+          "postCode": 100085,
+          "name": "VITROS DIAGNOSTICS. LTD BRANCH #5",
+          "type": "Diagnostics",
+          "address": "SERGELI-2 block of flats, Kipchak Street, 14",
+          "forChildren": false
+        },
+        {
+          "postCode": 100085,
+          "name": "BLESS URAZ MED. PRIVATE CLINIC",
+          "type": "Private",
+          "address": "KURGANTEPA St., SPUTNIK-5 block of flats, 5/9"
+        },
+        {
+          "postCode": 100085,
+          "name": "GREEN MED STAR PRIVATE CLINIC.",
+          "type": "Cardiac",
+          "address": "Sergeli BIRLIK St., 68A",
+          "forChildren": false
+        }
+      ]
+    },
+    {
+      "postCode": 100011,
+      "district": "Shayhontokhur",
+      "neighbours": [100179, 100126, 100022],
+      "hospitals": [
+        {
+          "postCode": 100011,
+          "name": "CLINICAL INFECTIOUS DISEASES HOSPITAL #1",
+          "type": "Diagnostics",
+          "address": "Shaykhontokhur KICHIK KHALKA YULI (MALAYA KOLTSEVAYA) St., 341A",
+          "forChildren": false
+        },
+        {
+          "postCode": 100011,
+          "name": "REPUBLICAN SPECIALIZED SCIENTIFIC AND PRACTICAL MEDICAL CENTER OF ONCOLOGY AND RADIOLOGY",
+          "type": "Oncology",
+          "address": "Shaykhontokhur FAROBI St., 383",
+          "forChildren": false
+        },
+        {
+          "postCode": 100011,
+          "name": "TASHKENT CITY CLINICAL HOSPITAL #1",
+          "type": "Private",
+          "address": "Shaykhontokhur KUKCHA DARVAZA (former MANNON UYGUR) St., 40",
+          "forChildren": false
+        },
+        {
+          "postCode": 100011,
+          "name": "PHTISIATRIC AND PULMONOLOGIC RESEARCH INSTITUTE.",
+          "type": "Private",
+          "address": "Shaykhontokhur MAJLISI St., 1",
+          "forChildren": false
+        },
+        {
+          "postCode": 100011,
+          "name": "CITY CHILDREN'S CLINICAL HOSPITAL #4.",
+          "type": "Private",
+          "address": "Shaykhontokhur BOGKUCHA (M-27) block of flats, 20",
+          "forChildren": true
+        },
+        {
+          "postCode": 100011,
+          "name": "CHILDRENS INFECTIOUS HOSPITAL #4 OF TASHKENT CITY",
+          "type": "Diagnostics",
+          "address": "Shaykhontokhur TAKHTAPUL (former Z.KABULOV) St., 30",
+          "forChildren": true
+        },
+        {
+          "postCode": 100011,
+          "name": "CHILDREN'S TUBERCULOSIS HOSPITAL OF TASHKENT CITY",
+          "type": "Diagnostics",
+          "address": "Shaykhontokhur RSKHMAT FAYZI St., 4",
+          "forChildren": true
+        }
+      ]
+    },
+    {
+      "postCode": 100126,
+      "district": "Uchtepa",
+      "neighbours": [100115, 100011, 100022],
+      "hospitals": [
+        {
+          "postCode": 100126,
+          "name": "CHIROY-TIB . CENTER FOR AESTHETIC SURGERY",
+          "type": "Surgical",
+          "address": "Uchtepa CHILANZAR-11 block, 45",
+          "forChildren": false
+        },
+        {
+          "postCode": 100126,
+          "name": "UROLOGIC COMPLEX",
+          "type": "Urologic, Diagnostics, Private",
+          "address": "Chilanzar-12, st. Sheyx-zade, 7",
+          "forChildren": false
+        },
+        {
+          "postCode": 100126,
+          "name": "Asia Med Center",
+          "type": "Private, Cardiac, Diagnostics, Dental",
+          "address": "Chilanzar-G9A, st. Lutfi, 1A",
+          "forChildren": false
+        },
+        {
+          "postCode": 100126,
+          "name": "JACKSOFT MDS",
+          "type": "Oncology",
+          "address": "st. Foziltepa, 20A",
+          "forChildren": false
+        },
+        {
+          "postCode": 100126,
+          "name": "Darmon Diagnostika",
+          "type": "Diagnostics",
+          "address": "st. Lutfi, Chilanzar-23, 56",
+          "forChildren": false
+        },
+        {
+          "postCode": 100126,
+          "name": "NEVRO SERVIS DIAGNOSTIC CLINIC",
+          "type": "Diagnostics",
+          "address": "st. Kukcha Darvoza, 558А",
+          "forChildren": false
+        },
+        {
+          "postCode": 100126,
+          "name": "GATLING MED",
+          "type": "Cardiac",
+          "address": "Chilanzar-13, 45",
+          "forChildren": false
+        },
+        {
+          "postCode": 100126,
+          "name": "KARAVAN FARM SHIFO",
+          "type": "Dental, Diagnostics, Private, Surgical",
+          "address": "St. Katta Xirmon Tepa, Chilanzar-23, 2C",
+          "forChildren": false
+        },
+        {
+          "postCode": 100126,
+          "name": "KRIOMED",
+          "type": "Diagnostics, Private",
+          "address": "St. Foziltepa, Chilanzar-15, 23A",
+          "forChildren": false
+        },
+        {
+          "postCode": 100126,
+          "name": "Akrom Stom",
+          "type": "Dental, Private",
+          "address": "St. Farxod, Chilanzar-11, 18/51",
+          "forChildren": false
+        },
+        {
+          "postCode": 100126,
+          "name": "MEDIOFARM",
+          "type": "Diagnostics, Private",
+          "address": "St. Kukcha Darvoza, 618A",
+          "forChildren": false
+        },
+        {
+          "postCode": 100126,
+          "name": "NBF MED",
+          "type": "Diagnostics, Private",
+          "address": "St. Katta Xirmon Tepa, Chilanzar-23, 2B",
+          "forChildren": false
+        },
+        {
+          "postCode": 100126,
+          "name": "Sardor Stom",
+          "type": "Dental, Private",
+          "address": "St. Lutfi, Chilanzar-24, 55",
+          "forChildren": false
+        },
+        {
+          "postCode": 100126,
+          "name": "Vatan Stom Luks",
+          "type": "Dental, Private",
+          "address": "St. Lutfi, Chilanzar-24, 55",
+          "forChildren": false
+        },
+        {
+          "postCode": 100126,
+          "name": "TIBBIYOT OLAMI",
+          "type": "Diagnostics, Private",
+          "address": "St. Kichik Xalqa Yoli, Chilanzar-11, 11/1",
+          "forChildren": false
+        }
+      ]
+    },
+    {
+      "postCode": 100007,
+      "district": "Yashnobod",
+      "neighbours": [100125, 100047, 100022],
+      "hospitals": [
+        {
+          "postCode": 100007,
+          "name": "Government Polyclinic No. 1",
+          "type": "Local",
+          "address": "Sadik Azimov 5 Passage, Tashkent, Uzbekistan",
+          "forChildren": false
+        },
+        {
+          "postCode": 100007,
+          "name": "Horev Medical Center",
+          "type": "Urologic",
+          "address": "Maxtumquli street 105, Uzbekistan",
+          "forChildren": false
+        },
+        {
+          "postCode": 100007,
+          "name": "Неврологическая клиника GMS",
+          "type": "Psychiatric",
+          "address": "8А Botkin ko'chasi, Tashkent, Uzbekistan",
+          "forChildren": false
+        },
+        {
+          "postCode": 100007,
+          "name": "EraMed",
+          "type": "Private",
+          "address": "3 Pahlavon Mahmud St, Tashkent, Uzbekistan",
+          "forChildren": false
+        },
+        {
+          "postCode": 100007,
+          "name": "Vita Alliance",
+          "type": "Diagnostics",
+          "address": "Parkent Street, Tashkent, Uzbekistan",
+          "forChildren": false
+        },
+        {
+          "postCode": 100007,
+          "name": "ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА №2",
+          "type": "Local",
+          "address": "48 Pavel Sadimenko Street, Tashkent, Uzbekistan",
+          "forChildren": false
+        },
+        {
+          "postCode": 100007,
+          "name": "27-SONLI OILAVIY POLIKLINIKASI YASHNOBOD TUMANI",
+          "type": "Local",
+          "address": " Yashnobod JARQO'RG'ON ko'chasi, 37A",
+          "forChildren": false
+        },
+        {
+          "postCode": 100007,
+          "name": "GLOBAL MED SISTEM. CLINIC",
+          "type": "Cardiac",
+          "address": "MIRZO ULUGBEK avenue, TASHSELMASH block of flats, 1A",
+          "forChildren": false
+        },
+        {
+          "postCode": 100007,
+          "name": "CHINOR MEDICAL CENTER. UZBEK-INDIAN MULTIDISCIPLINE MEDICAL CENTRE",
+          "type": "Surgical",
+          "address": "Yashnabad 1st KAMASHI pass., 5",
+          "forChildren": false
+        },
+        {
+          "postCode": 100007,
+          "name": "OSIYO TIBBIYOT MARKAZI MEDICAL CENTRE",
+          "type": "Diagnostics",
+          "address": "OSIYO TIBBIYOT MARKAZI MEDICAL CENTRE",
+          "forChildren": false
+        },
+        {
+          "postCode": 100007,
+          "name": "Dental Premier",
+          "type": "Dental",
+          "address": "52 Nasaf St, Tashkent 100007, Uzbekistan",
+          "forChildren": false
+        },
+        {
+          "postCode": 100007,
+          "name": "Well dental",
+          "type": "Dental",
+          "address": "63 Sadik Azimov Street, Tashkent 100047, Uzbekistan",
+          "forChildren": false
+        },
+        {
+          "postCode": 100007,
+          "name": "Tashkent Dental Implant Clinic",
+          "type": "Dental",
+          "address": "10, 12 Talimarjon Street, Tashkent, Uzbekistan",
+          "forChildren": false
+        }
+      ]
+    },
+    {
+      "postCode": 100114,
+      "district": "Yunusobod",
+      "neighbours": [100179, 100125],
+      "hospitals": [
+        {
+          "postCode": 100114,
+          "name": "AMERICAN HOSPITAL MEDICAL CENTRE",
+          "type": "Cardiac",
+          "address": "YUNUSABAD DISTRICT, street IKBOL, 14",
+          "forChildren": false
+        },
+        {
+          "postCode": 100114,
+          "name": "HAYAT MEDICAL CENTRE PRIVATE CLINIC",
+          "type": "Cardiac",
+          "address": "YUNUSABAD DISTRICT, street MEVAZOR, 5/14",
+          "forChildren": false
+        },
+        {
+          "postCode": 100114,
+          "name": "CENTER OF NEPHROLOGY",
+          "type": "Urologic",
+          "address": "YUNUSABAD DISTRICT, street YANGISHAHAR, 9",
+          "forChildren": false
+        },
+        {
+          "postCode": 100114,
+          "name": "CITY CHILDREN'S CLINICAL HOSPITAL № 1",
+          "type": "Local",
+          "address": "YUNUSABAD DISTRICT, massif YUNUSABAD-3, 3",
+          "forChildren": true
+        },
+        {
+          "postCode": 100114,
+          "name": "DETOKS MEDIKAL NARCOLOGICAL CLINIC",
+          "type": "Psychiatric",
+          "address": "YUNUSABAD DISTRICT, massif YUNUSABAD-15, street AKHMAD DONISH, 75-77",
+          "forChildren": false
+        },
+        {
+          "postCode": 100114,
+          "name": "CITY CLINICAL HOSPITAL № 7",
+          "type": "Local",
+          "address": "YUNUSABAD DISTRICT, street GAYRATI, 24",
+          "forChildren": false
+        },
+        {
+          "postCode": 100114,
+          "name": "EVOMED PRIVATE CLINIC",
+          "type": "Private",
+          "address": "YUNUSABAD DISTRICT, street AKHMAD DONISH, 47 A",
+          "forChildren": false
+        },
+        {
+          "postCode": 100114,
+          "name": "REPUBLICAN SPECIALIZED SCIENTIFICALLY-PRACTICAL CENTER OF THERAPY AND MEDICAL REHABILITATION STATE UNITARY ENTERPRISE",
+          "type": "Local",
+          "address": "YUNUSABAD DISTRICT, street OSIYO, 4",
+          "forChildren": false
+        },
+        {
+          "postCode": 100114,
+          "name": "YASSI-DONO PRIVATE ENTERPRISE",
+          "type": "Diagnostics",
+          "address": "YUNUSABAD DISTRICT, massif YUNUSABAD-14, 58/66",
+          "forChildren": false
+        },
+        {
+          "postCode": 100114,
+          "name": "IRODA - Oilaviy stomatologiya",
+          "type": "Dental",
+          "address": "Yunusobod tumani, 8-mavze, Rixsiliy ko’chasi, 2-А uy, Тошкент 100190, Uzbekistan",
+          "forChildren": false
+        },
+        {
+          "postCode": 100114,
+          "name": "Zeta Dent",
+          "type": "Dental",
+          "address": "Yangi Yunusabad street 53, Uzbekistan",
+          "forChildren": false
+        }
+      ]
+    },
+    {
+      "postCode": 100022,
+      "district": "Yakkasaray",
+      "neighbours": [100115, 100047, 100126, 100085],
+      "hospitals": [
+        {
+          "postCode": 100022,
+          "name": "CLINICAL INFECTIOUS DISEASES HOSPITAL #3 OF TASHKENT CITY",
+          "type": "Diagnostics",
+          "address": "Yakkasaray UMAROV pass., KUSHBEGI block of flats, 26",
+          "forChildren": false
+        },
+        {
+          "postCode": 100022,
+          "name": "SHOKH INTERNATIONAL HOSPITAL",
+          "type": "Diagnostics",
+          "address": "Yakkasaray KICHIK KHALKA YULI (MALAYA KOLTSEVAYA) St., 70A",
+          "forChildren": false
+        }
+      ]
+    },
+    {
+      "postCode": 100179,
+      "district": "Olmazor",
+      "neighbours": [100011, 100114],
+      "hospitals": [
+        {
+          "postCode": 100179,
+          "name": "CLINIC OF REPUBLICAN SPECIALIZED SCIENTIFIC-PRACTICE CENTER OF PEDIATRICS",
+          "type": "Diagnostics",
+          "address": "Almazar 2nd CHIMBAYSKIY pass., 3",
+          "forChildren": false
+        },
+        {
+          "postCode": 100179,
+          "name": "TUBERCULOSIS DISEASE HOSPITAL #1 OF TASHKENT CITY",
+          "type": "Diagnostics",
+          "address": "Almazar KICHIK KHALKA YULI (MALAYA KOLTSEVAYA) St., 19",
+          "forChildren": false
+        },
+        {
+          "postCode": 100179,
+          "name": "1-ST CLINIC OF TASHKENT MEDICAL ACADEMY",
+          "type": "Diagnostics",
+          "address": "Almazar SHIFOKORLAR St., 2",
+          "forChildren": false
+        },
+        {
+          "postCode": 100179,
+          "name": "2ND CLINIC OF SECOND TASHKENT MEDICAL INSTITUTE",
+          "type": "Diagnostics",
+          "address": "Almazar FAROBI St., 2",
+          "forChildren": false
+        },
+        {
+          "postCode": 100179,
+          "name": "CENTRAL HOSPITAL OF THE MINISTRY OF THE INTERNAL AFFAIRS OF THE REPUBLIC OF UZBEKISTAN",
+          "type": "Diagnostics",
+          "address": "Almazar 4th KARAKAMISH (former TANSIKBAEV) St., KARAKAMISH-2/5 block of flats, 2",
+          "forChildren": false
+        },
+        {
+          "postCode": 100179,
+          "name": "CENTRAL MILITARY HOSPITAL OF THE STATE SECURITY SERVICE.",
+          "type": "Diagnostics",
+          "address": "Almazar KARAKAMISH-2/4 block of flats, 3",
+          "forChildren": false
+        },
+        {
+          "postCode": 100179,
+          "name": "REPUBLICAN OPHTHALMOLOGIC CLICNIC.",
+          "type": "Diagnostics",
+          "address": "Almazar ZIYO St., 12",
+          "forChildren": false
+        }
+      ]
+    }
+  ]
+}
